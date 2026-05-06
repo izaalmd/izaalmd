@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Izabelly%20✨&fontSize=40&fontColor=fff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Izabelly%20✨&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <table>
   <tr>
@@ -32,11 +32,11 @@ Técnica em Informática, em breve iniciando o curso de **Design de Mídias Digi
 
 ### Onde me encontrar
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://izaalmd.github.io/PortfolioOficial/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabelly-almeida-9a124b300/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://izaalmd.github.io/PortfolioOficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabelly-almeida-9a124b300/)
 
 </td>
   </tr>
 </table>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer)
