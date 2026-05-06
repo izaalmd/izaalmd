@@ -1,6 +1,6 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Izabelly%20✨&fontSize=40&fontColor=fff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Izabelly%20✨&fontSize=40&fontColor=fff&animation=fadeIn&width=100)
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="55%">
 
@@ -39,4 +39,4 @@ Técnica em Informática, em breve iniciando o curso de **Design de Mídias Digi
   </tr>
 </table>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer&width=100)
