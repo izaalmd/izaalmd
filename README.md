@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Izabelly%20✨&fontSize=40&fontColor=fff&animation=fadeIn&width=100)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=0,2,2,5,30&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Izabelly%20✨&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 <table width="100%">
   <tr>
@@ -21,7 +21,7 @@ Técnica em Informática, em breve iniciando o curso de **Design de Mídias Digi
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
@@ -39,4 +39,4 @@ Técnica em Informática, em breve iniciando o curso de **Design de Mídias Digi
   </tr>
 </table>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer&width=100)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=0,2,2,5,30&height=100&section=footer" />
