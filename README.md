@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
-Técnica em Informática, em breve iniciando o curso de **Design de Mídias Digitais na FATEC** (agosto/2025). Apaixonada por tecnologia, design e por transformar ideias em experiências digitais.
+Técnica em Informática, em breve iniciando o curso de **Design de Mídias Digitais na FATEC** (agosto/2026). Apaixonada por tecnologia, design e por transformar ideias em experiências digitais.
 
 - 🎓 Técnica em Informática
 - 🎨 Futura estudante de Design de Mídias Digitais — FATEC
